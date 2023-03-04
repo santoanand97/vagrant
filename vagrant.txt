@@ -1,0 +1,12 @@
+#to insatll virtual box
+vagrant init <virtual_box_name>
+#to run virtual box
+vagrant up
+#it will create Vagrantfile
+#use gitbash to use VM(ubuntu)
+vagrant ssh
+#to power-off vm
+vagrant halt
+#to delete virtual box
+vagrant delete
+
